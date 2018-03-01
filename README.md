@@ -1,6 +1,6 @@
-# AzDevBase
+# AzRestfulHelpers
 
-A general purpose seed project base
+Restful helpers
 
 Run `npm install`
 
